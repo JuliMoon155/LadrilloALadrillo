@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+activate
+Include
+Lib
+Scripts
+pyvenv.cfg
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
