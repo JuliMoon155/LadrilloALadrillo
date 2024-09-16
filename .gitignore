@@ -12,11 +12,7 @@ dist
 dist-ssr
 *.local
 
-$persist_dir
-Include
-Lib
-Scripts
-pyvenv.cfg
+.venv
 
 # Editor directories and files
 .vscode/*
