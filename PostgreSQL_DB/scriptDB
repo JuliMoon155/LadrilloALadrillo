@@ -1,4 +1,0 @@
-CREATE DATABASE ladrillo_a_ladrillo
-ENCODING = 'UTF8'
-OWNER = admin;
-CONNECTION LIMIT = 4;
